@@ -33,7 +33,3 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
-.welcome-text, .supply-text {
-  color: #ffffff; /* Set text color to white */
-  font-family: 'Indie Flower', cursive; /* Use the chosen font from Google Fonts */
-}
