@@ -1,0 +1,28 @@
+/* CSS styles */
+
+.hidden {
+  display: none;
+}
+
+#gameArea {
+  position: relative;
+  width: 100%;
+  height: 80vh; /* Adjust based on your preference */
+  background-color: #add8e6;
+  margin: auto;
+}
+
+#haraboji {
+  position: absolute;
+  bottom: 10px;
+  width: 50px; /* Adjust size as needed */
+  height: 100px; /* Adjust size as needed */
+  background-image: url('haraboji.png'); /* Ensure you have this image */
+  background-size: cover;
+  left: 50%;
+}
+
+#score {
+  text-align: center;
+  font-size: 24px;
+}
