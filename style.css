@@ -27,8 +27,8 @@
 }
 
 body {
-  background-image: url('https://i.ibb.co/vLcHY6X/hrb-background.webp');
-  background-size: cover; /* Cover the entire page */
-  background-position: center; /* Center the background image */
-  background-attachment: fixed; /* Optional: Fix the background during scroll */
+    background-image: url('https://i.ibb.co/vqGB4mq/DALL-E-2024-03-27-14-44-00-Illustrate-a-dynamic-meme-inspired-background-featuring-multiple-characte.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
